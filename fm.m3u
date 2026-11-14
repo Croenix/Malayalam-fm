@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPBtk98VxVz2TVUozwb5dA_AEx8pd3QpKu6xb7yJjdiA&s=10",radio mango
+https://strw3.openstream.co/1459?aw_0_1st.collectionid%3D4635%26stationId%3D4635%26publisherId%3D1483%26k%3D1794685586
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS87V4njpFVkjHTVih-hgJ8fRit-CITYOyh6f66gPBIHg&s=10",Radio Mirchi Kochi
+https://radio.tamilfmradios.com/?id=mirchimalayalam
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWQcHTo--BSOGOV5D5qfHNT_F_Vc-nCovSExOSWHojOg&s=10",Club FM 94.3
+https://strw3.openstream.co/1459?aw_0_1st.collectionid%3D4635%26stationId%3D4635%26publisherId%3D1483%26k%3D1794685761
+
+#EXTINF:-1 tvg-logo="https://radiosindia.com/images/air.jpg",Ananthapuri FM
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio229/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-WYZc2Nr_fRo0Mcu2lHuOKHdtondz9LIEG-KZEkioIw&s=10",Radio Lemon
+https://live.sarrit.com:8040/radio.mp3
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr4tUgDa9tzrEH4ynbhYJKCEFs0SO-2DVctdnZTIaZmg&s=10",Radio Keralam
+https://ice31.securenetsystems.net/RADIOKERAL
+
+#EXTINF:-1 tvg-logo="https://radiosindia.com/images/airmalayalam.jpg",Akashvani Malayalam
+https://d1cvqgmbcpg5yn.cloudfront.net/6ff13de7ea9b53d7/6ff13de7ea9b53d7.m3u8
+
+#EXTINF:-1 tvg-logo="https://radiosindia.com/images/air.jpg",Air Kochi
+https://radio.wavespb.com/live/70400e7510e87cdf/70400e7510e87cdf.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS96JJKEBtJP02NzvvLSebNpOEEFBvDQ0R0ozlMYG5ebA&s=10",Radio 90 FM
+https://icecast.octosignals.com/radio90_final
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/7aqwcxfkwk6g.png",Radio Onattukara
+https://radio.garden/api/ara/content/listen/gB09EvIo/channel.mp3?hls=1&1794686858472
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi39z7ytgl6jhOBzPhGM9Z7TEy2oQLXXhKYyIWaHA81Q&s=10",Green Radio
+https://gains.reviveradio.net/proxy/greenradio?mp=/stream
